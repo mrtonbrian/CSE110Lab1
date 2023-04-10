@@ -18,6 +18,7 @@ My favorite recent project has been [an interpreter for the esolang Brainf**k.](
 ```
 A pretty good quote for programmers is:
 > "Measuring programming progress by lines of code is like measuring aircraft building progress by weight." - (Bill Gates)
+
 ## Linking
 ### External Links
 This is an external link to [my favorite song](https://www.youtube.com/watch?v=dQw4w9WgXcQ).
@@ -33,11 +34,13 @@ This is an unordered list of my friend's names (they're all equally important)
 - Ailyn
 - Isaac
 - Hiela
+
 ### Ordered List
 This is an ordered list of my favorite subjects
   1. Math
   2. Computer Science
   3. I don't know what else to put here
+
 ### Task List
 My tasks for this week
 - [x] Finish CSE 110 Lab
